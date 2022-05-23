@@ -1,0 +1,15 @@
+C:\Users\mulev\Desktop\DanskeTask\bin\Debug\net6.0\DanskeTask.exe
+C:\Users\mulev\Desktop\DanskeTask\bin\Debug\net6.0\DanskeTask.deps.json
+C:\Users\mulev\Desktop\DanskeTask\bin\Debug\net6.0\DanskeTask.runtimeconfig.json
+C:\Users\mulev\Desktop\DanskeTask\bin\Debug\net6.0\DanskeTask.dll
+C:\Users\mulev\Desktop\DanskeTask\bin\Debug\net6.0\DanskeTask.pdb
+C:\Users\mulev\Desktop\DanskeTask\obj\Debug\net6.0\DanskeTask.csproj.AssemblyReference.cache
+C:\Users\mulev\Desktop\DanskeTask\obj\Debug\net6.0\DanskeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulev\Desktop\DanskeTask\obj\Debug\net6.0\DanskeTask.AssemblyInfoInputs.cache
+C:\Users\mulev\Desktop\DanskeTask\obj\Debug\net6.0\DanskeTask.AssemblyInfo.cs
+C:\Users\mulev\Desktop\DanskeTask\obj\Debug\net6.0\DanskeTask.csproj.CoreCompileInputs.cache
+C:\Users\mulev\Desktop\DanskeTask\obj\Debug\net6.0\DanskeTask.dll
+C:\Users\mulev\Desktop\DanskeTask\obj\Debug\net6.0\refint\DanskeTask.dll
+C:\Users\mulev\Desktop\DanskeTask\obj\Debug\net6.0\DanskeTask.pdb
+C:\Users\mulev\Desktop\DanskeTask\obj\Debug\net6.0\DanskeTask.genruntimeconfig.cache
+C:\Users\mulev\Desktop\DanskeTask\obj\Debug\net6.0\ref\DanskeTask.dll
